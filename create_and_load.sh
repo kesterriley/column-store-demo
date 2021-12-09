@@ -1,4 +1,5 @@
 #!/bin/bash
+# Script developed by Kester Riley <kesterriley@hotmail.com> 
 
 host=$1
 port=$2
