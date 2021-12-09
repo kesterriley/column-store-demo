@@ -30,8 +30,8 @@ pip install mariadb plotly pandas
 to run the scripts from within the virtual environment:
 
 ```
-python ~/cloudexpo/demo/test_1.py
-python ~/cloudexpo/demo/test_2.py
-python ~/cloudexpo/demo/test_3.py
-python ~/cloudexpo/demo/test_4.py
+python ~/demo/test_1.py
+python ~/demo/test_2.py
+python ~/demo/test_3.py
+python ~/demo/test_4.py
 ```
