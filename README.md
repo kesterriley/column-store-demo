@@ -10,6 +10,7 @@ I extract the data and split it in to managable chunks - the smaller the files t
 ```bash
 split -l 1000000 aisdk_<FILENAME>.csv split<nn>
 ```
+Make sure these files are put in to a location that is accessed by the Script. 
 
 You can then run the dataload script, assuming your SkySQL instance is available:
 
